@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category_ID,Subcategory_ID,Brand,Price_INR,Stock_Quantity,Status,Supplier_ID,Cost
+1,Skirts,6,15,"Handa, Warrior and Bandi",2827.1,13,active,1,2544.39
+2,Dresses,3,48,Bakshi-Tara,2635.7,84,inactive,29,2372.13
+3,Track Pants,5,27,Subramanian Inc,2408.05,30,inactive,29,2167.245
+4,Handbags,4,1,"Bhatia, Warrior and Magar",2948.31,55,inactive,34,2653.479
+5,Jeans,4,8,Dalal Inc,1534.8,3,active,14,1381.32
+6,Sunglasses,1,28,Shanker Inc,1121.48,90,inactive,12,1009.332
+7,Caps,3,10,Aggarwal-Jhaveri,652.65,94,inactive,7,587.385
+8,Watches,6,18,Sachdeva Ltd,4190.4,75,inactive,31,3771.36
+9,Sneakers,5,31,Chand Ltd,2945.17,68,active,25,2650.653
+10,Sports T-Shirts,5,33,Hora and Sons,2716.98,28,inactive,3,2445.282
+11,Heels,4,8,Chakrabarti-Barad,811.07,54,active,18,729.963
+12,Shoes,3,18,Ranganathan and Sons,2909.99,100,active,15,2618.991
+13,Bags,4,21,Yogi Ltd,3048.98,67,inactive,48,2744.082
+14,Caps,6,1,Dube-Banerjee,2271.01,58,active,40,2043.909
+15,Sandals,4,40,Hayre-Kunda,4999.57,63,active,41,4499.613
+16,Shorts,1,7,"Khanna, Wason and Warrior",1890.47,63,active,30,1701.423
+17,Sports T-Shirts,2,11,Verma Ltd,2031.71,75,inactive,25,1828.539
+18,Sneakers,6,31,Sen-Master,549.01,47,inactive,22,494.109
+19,T-Shirts,2,44,Sanghvi Ltd,2605.1,6,inactive,2,2344.59
+20,Shorts,6,42,Bahri-Chopra,1224.21,100,inactive,32,1101.789
+21,T-Shirts,6,26,Tella-Shukla,1052.23,13,active,7,947.007
+22,T-Shirts,5,11,"Sachdev, Sangha and Ravi",2108.38,78,inactive,22,1897.542
+23,Sandals,3,38,Subramanian Ltd,1483.32,3,active,21,1334.988
+24,Handbags,4,28,"Manda, Borra and Hayer",3577.42,98,active,18,3219.678
+25,Jeans,2,14,"Mangat, Chaudhari and Warrior",3097.64,21,inactive,43,2787.876
+26,Trousers,5,2,Garde and Sons,2305.7,39,inactive,14,2075.13
+27,Sneakers,4,13,Kamdar-Dua,1803.61,93,inactive,4,1623.249
+28,Tops,6,40,Chaudhuri-Ramanathan,2472.02,58,active,30,2224.818
+29,Caps,2,16,Yogi-Krishnamurthy,654.88,100,inactive,1,589.392
+30,Jackets,4,28,Ramaswamy-Doctor,1270.19,60,active,3,1143.171
+31,Shoes,3,21,"Bawa, Tandon and Kala",3807.59,72,active,2,3426.831
+32,Hoodies,2,8,"Bhavsar, Ben and Gara",1568.46,18,inactive,11,1411.614
+33,Shoes,4,4,"Kannan, Ramesh and Kari",2862.15,4,inactive,28,2575.935
+34,Shorts,5,50,Cheema Ltd,2861.85,86,active,10,2575.665
+35,Track Pants,4,25,Handa Inc,3755.05,50,active,14,3379.545
+36,Jackets,1,1,"Chadha, Mani and Bhat",1633.02,92,inactive,41,1469.718
+37,Handbags,3,45,"Varughese, Thakkar and Krish",3459.2,72,inactive,37,3113.28
+38,Caps,5,49,"Maharaj, Doshi and Butala",593.61,84,inactive,22,534.249
+39,Track Pants,3,30,Dani Ltd,1601.51,5,active,19,1441.359
+40,T-Shirts,4,42,"Bandi, Ahuja and Kade",1949.22,76,inactive,13,1754.298
+41,Handbags,1,22,Dada LLC,2482.56,59,active,39,2234.304
+42,Sports Shoes,4,3,"Singhal, Sidhu and Reddy",1426.24,69,active,49,1283.616
+43,Dresses,1,33,"Ahuja, Walia and Shukla",4829.12,11,inactive,11,4346.208
+44,Jeans,1,31,Lad-Gala,4496.65,44,active,5,4046.985
+45,Jeans,4,13,Ramakrishnan-Tandon,517.26,76,active,44,465.534
+46,Shoes,3,22,"Chanda, Gole and Barad",595.21,31,active,11,535.689
+47,Shorts,3,21,Sodhi Inc,2125.59,76,active,10,1913.031
+48,Sports T-Shirts,4,39,Sharaf LLC,2073.03,72,inactive,27,1865.727
+49,Bags,5,23,Jayaraman Inc,1721.04,19,active,7,1548.936
+50,Boots,2,18,"Iyengar, Maharaj and Doshi",4944.38,75,inactive,32,4449.942
+51,Sports Shoes,6,31,Kala Inc,524.35,82,inactive,36,471.915
+52,Jackets,2,50,Kashyap-Bala,4799.89,54,inactive,25,4319.901
+53,Belts,1,3,Gaba-Dada,1196.78,76,inactive,25,1077.102
+54,Dresses,1,13,"Subramanian, Lal and Khanna",2360.75,46,active,39,2124.675
+55,T-Shirts,6,11,Bandi Inc,4892.65,39,inactive,31,4403.385
+56,Caps,6,50,Batra Ltd,2457.29,64,inactive,32,2211.561
+57,Dresses,3,28,"Sarkar, Sahni and Swaminathan",4366.91,57,inactive,1,3930.219
+58,Skirts,6,40,Choudhary-Wason,3136.42,33,inactive,7,2822.778
+59,Sandals,2,41,Subramanian-Boase,3977.82,94,active,6,3580.038
+60,Shoes,2,17,"Hans, Agate and Kakar",4567.24,76,inactive,25,4110.516
+61,Shoes,6,39,"Singh, Dani and Chaudry",4572.93,40,inactive,47,4115.637
+62,Sports T-Shirts,5,20,"Halder, Konda and Basak",1873.27,45,inactive,50,1685.943
+63,T-Shirts,4,24,Kaur-Andra,2756.78,65,active,33,2481.102
+64,Bags,4,14,Desai LLC,3835.33,68,active,35,3451.797
+65,Caps,5,25,"Sur, Mand and Bahl",1296.24,43,inactive,48,1166.616
+66,Jackets,2,31,Toor PLC,2272.5,85,active,12,2045.25
+67,T-Shirts,6,32,Saxena Group,692.49,81,active,32,623.241
+68,Watches,6,49,"Krish, Kuruvilla and Kaur",3427.82,49,active,24,3085.038
+69,Jackets,1,33,Jhaveri PLC,2473.37,39,active,29,2226.033
+70,Shoes,3,4,Chadha-Bose,3462.62,64,inactive,9,3116.358
+71,Tops,5,34,"Bhandari, De and Babu",4520.47,17,active,42,4068.423
+72,Dresses,3,11,Shere Inc,2373.79,1,inactive,32,2136.411
+73,T-Shirts,1,30,Rege-Shanker,4585.56,21,active,37,4127.004
+74,T-Shirts,2,31,Mane Group,1550.21,76,inactive,40,1395.189
+75,Caps,1,40,"Kuruvilla, Lalla and Tara",3524.2,59,inactive,25,3171.78
+76,Watches,6,7,Bedi and Sons,3624.31,51,inactive,12,3261.879
+77,Shirts,5,32,Cherian-Kala,2788.12,35,active,44,2509.308
+78,Sarees,5,17,Hari-Cherian,2755.47,45,inactive,24,2479.923
+79,Sunglasses,3,34,"Kothari, Ahuja and Kannan",4794.23,11,inactive,44,4314.807
+80,Tops,1,20,"Rajan, Doshi and Sanghvi",2611.2,52,inactive,2,2350.08
+81,Dresses,6,11,"Comar, Sha and Anne",1956.08,72,active,48,1760.472
+82,Dresses,4,46,"Soman, Krish and Balan",4064.86,50,inactive,10,3658.374
+83,Shoes,4,36,"Chad, Jaggi and Sarma",4637.51,54,active,12,4173.759
+84,Shoes,3,41,Bahri-Upadhyay,3555.69,47,inactive,43,3200.121
+85,Jeans,4,17,Barman Inc,3563.52,34,active,48,3207.168
+86,Shoes,6,44,"Anne, Bansal and Toor",848.48,82,inactive,26,763.632
+87,T-Shirts,5,42,"Ramaswamy, Raju and Karan",2537.43,63,inactive,3,2283.687
+88,Hoodies,4,10,Thaker and Sons,1441.77,7,inactive,33,1297.593
+89,Sports T-Shirts,5,5,Balakrishnan Ltd,2716.83,97,inactive,12,2445.147
+90,Sports Shoes,1,36,Wali-Raman,1447.26,78,inactive,3,1302.534
+91,Sunglasses,2,19,Kapadia PLC,3621.04,27,active,47,3258.936
+92,Sports T-Shirts,5,21,Acharya and Sons,2057.06,60,inactive,21,1851.354
+93,Sunglasses,1,39,Taneja-Tata,3163,93,inactive,16,2846.7
+94,Handbags,5,50,Agrawal-Dada,3560.31,74,active,29,3204.279
+95,Sports T-Shirts,3,50,"Boase, Kannan and Uppal",4528.04,98,active,25,4075.236
+96,Jeans,1,35,Goda-Sachar,4018.23,98,inactive,12,3616.407
+97,Shoes,5,30,Randhawa Inc,2059.14,2,active,9,1853.226
+98,Boots,6,29,Raman-Contractor,4940.7,77,inactive,10,4446.63
+99,Belts,3,2,"Varma, Ramesh and Bose",780.95,15,inactive,8,702.855
+100,Boots,4,7,"Buch, Borah and Goel",3398.24,16,inactive,23,3058.416
+101,Trousers,2,16,"Trivedi, Kapur and Char",1284.58,7,active,30,1156.122
+102,Sports T-Shirts,3,21,Gill-Sha,3089.53,5,inactive,30,2780.577
+103,T-Shirts,4,6,"Bhat, Tank and Varma",3471.38,28,active,20,3124.242
+104,Hoodies,2,28,"Bawa, Virk and Bail",4654.87,54,inactive,34,4189.383
+105,Sports T-Shirts,6,49,"Keer, Boase and Vala",3531.13,2,active,34,3178.017
+106,Jeans,1,10,"Behl, Chaudhuri and Mani",1941.44,97,inactive,50,1747.296
+107,Belts,3,5,"Taneja, Sangha and Dash",573.78,3,inactive,37,516.402
+108,Jeans,1,11,Mallick LLC,1842.39,38,inactive,11,1658.151
+109,Handbags,3,47,Gole-Master,2053.59,43,active,29,1848.231
+110,Shoes,1,16,Shan-Jhaveri,593.07,20,active,17,533.763
+111,Shoes,3,15,"Sankar, Trivedi and Banerjee",943.35,4,active,20,849.015
+112,Sneakers,6,26,Bhatnagar LLC,4474.62,81,inactive,1,4027.158
+113,Sunglasses,4,37,Chawla-Mani,3304.26,31,inactive,9,2973.834
+114,Dresses,3,6,"Manne, Som and Contractor",521.63,17,active,34,469.467
+115,Hoodies,1,36,Kalla-Dugar,4405.08,48,inactive,41,3964.572
+116,Shirts,3,10,"Bora, Reddy and Agarwal",2423.5,70,inactive,28,2181.15
+117,Shoes,3,40,"Lad, Bail and Walia",3056.06,70,active,30,2750.454
+118,Hoodies,5,26,Ramachandran-Chowdhury,3088.89,64,inactive,23,2780.001
+119,Sports Shoes,5,4,Karan-Wali,994.42,69,inactive,49,894.978
+120,Shoes,4,20,Devan PLC,1570.08,39,inactive,37,1413.072
+121,Shoes,6,11,Vora-Sant,2615.7,98,active,27,2354.13
+122,Jackets,1,13,Arora-Subramaniam,3552.92,37,inactive,10,3197.628
+123,Caps,6,50,"Kadakia, Sabharwal and Dugar",898.41,92,inactive,4,808.569
+124,Sarees,3,5,"Lal, Tripathi and Sengupta",2091.24,12,active,4,1882.116
+125,Hoodies,5,46,Dar-Kar,3948.64,16,active,16,3553.776
+126,Trousers,2,24,"Andra, Mangat and Wagle",2042.14,48,active,23,1837.926
+127,Jeans,3,42,Kapadia Group,1225.71,57,active,45,1103.139
+128,Shirts,4,33,"Raj, Lad and Bajaj",3184.74,68,active,43,2866.266
+129,Trousers,3,27,Doshi-Bahl,4480.8,5,active,41,4032.72
+130,Belts,5,44,Lala-Sule,4856.13,23,inactive,29,4370.517
+131,Caps,2,44,Chandran-Kalla,2975.94,40,inactive,10,2678.346
+132,Jackets,3,22,Batta Inc,623.39,90,inactive,15,561.051
+133,Trousers,1,11,Babu LLC,1421.13,76,inactive,49,1279.017
+134,Dresses,4,50,"Gola, Vaidya and Barad",4651.01,72,active,24,4185.909
+135,Handbags,5,46,Vasa Inc,2879.77,85,inactive,46,2591.793
+136,Sunglasses,6,30,"Kunda, Tandon and Ganesan",4627.19,51,inactive,25,4164.471
+137,Sports T-Shirts,1,38,"Contractor, Sawhney and Shah",4486.61,9,inactive,23,4037.949
+138,Caps,2,3,"Jaggi, Krishnan and Jhaveri",3075.16,27,active,21,2767.644
+139,Jackets,3,5,"Chada, Raju and Ramesh",3474.03,30,inactive,18,3126.627
+140,Skirts,4,30,Sant Ltd,1218.89,74,inactive,16,1097.001
+141,Sandals,6,45,"Arora, Gandhi and Mani",3622.07,26,inactive,9,3259.863
+142,T-Shirts,3,9,Balasubramanian-Yohannan,2829.42,70,active,29,2546.478
+143,Sports Shoes,3,14,Thakkar Group,1638.18,38,active,11,1474.362
+144,Sneakers,6,2,"Dhillon, Chatterjee and Bhandari",1881.24,29,active,35,1693.116
+145,Heels,1,20,"Hans, Salvi and Bhakta",4084.58,38,inactive,27,3676.122
+146,T-Shirts,5,31,Talwar Ltd,1524.03,76,active,25,1371.627
+147,Caps,6,27,Bala PLC,3699.39,90,active,6,3329.451
+148,Belts,5,8,Balan PLC,3319.36,99,active,3,2987.424
+149,Skirts,3,4,"Verma, Arya and Keer",4996.88,53,inactive,19,4497.192
+150,Heels,4,14,"Bose, Lad and Golla",1661.66,48,active,29,1495.494
+151,Jeans,2,16,Karan and Sons,3047.09,90,active,34,2742.381
+152,Shirts,3,37,Deep-Hegde,1570.23,58,active,2,1413.207
+153,Jeans,4,34,Dara-Grover,1360.64,72,inactive,18,1224.576
+154,Shoes,4,18,Hari and Sons,2787.06,87,active,45,2508.354
+155,Caps,6,4,Bora-Koshy,580.21,17,active,44,522.189
+156,T-Shirts,3,38,"Bhatt, Khatri and Kara",2080.33,6,active,1,1872.297
+157,Watches,3,2,"Rana, Sathe and Ramaswamy",3686.5,15,inactive,41,3317.85
+158,Belts,4,13,Andra-Rama,1312.34,87,inactive,11,1181.106
+159,Sports T-Shirts,4,41,Shukla-Kala,4714.18,38,inactive,3,4242.762
+160,Track Pants,3,49,"Verma, Cherian and Sarkar",652.02,29,active,48,586.818
+161,Dresses,4,50,Mammen Inc,3997.74,9,active,20,3597.966
+162,Watches,4,6,Sabharwal Ltd,2045.2,46,inactive,47,1840.68
+163,Sports T-Shirts,3,1,Sachar Ltd,3033.78,14,inactive,20,2730.402
+164,Tops,2,22,Ahuja and Sons,1229.98,18,inactive,9,1106.982
+165,Jeans,5,48,Thaker and Sons,4446.07,25,active,13,4001.463
+166,Bags,1,37,"Banerjee, Goda and Virk",1511.52,21,active,3,1360.368
+167,Shirts,3,2,Bala Inc,881.14,38,inactive,17,793.026
+168,Shoes,5,49,Rege-Cherian,3817.7,33,inactive,11,3435.93
+169,Trousers,6,6,"Char, Mahal and Dora",4706.51,7,active,13,4235.859
+170,Handbags,2,13,"Bora, Kala and Chakrabarti",915.96,12,active,23,824.364
+171,Hoodies,2,46,Sekhon Inc,3860.53,5,inactive,35,3474.477
+172,Track Pants,4,46,Wable-Iyengar,544.11,22,active,25,489.699
+173,Belts,1,47,Warrior-Wadhwa,1972.82,70,inactive,32,1775.538
+174,Jeans,4,26,Varkey Ltd,3950.98,13,inactive,20,3555.882
+175,Sandals,4,17,Varughese-Soman,2234.9,92,active,22,2011.41
+176,Belts,1,39,Mahajan-Butala,4752.42,39,active,34,4277.178
+177,Sarees,6,7,"Bhatia, Ramaswamy and Krishnamurthy",3413.82,58,active,38,3072.438
+178,Dresses,5,41,Barad LLC,3342.23,88,inactive,23,3008.007
+179,Sarees,5,33,"Shah, Sabharwal and Sastry",2502.06,44,inactive,35,2251.854
+180,Caps,4,36,Kale-Thakur,4857.68,30,active,44,4371.912
+181,Trousers,1,36,Bhattacharyya PLC,3065.64,24,active,45,2759.076
+182,Hoodies,1,5,Dugal LLC,1895.25,71,active,26,1705.725
+183,Watches,6,41,"Ahuja, Srinivas and Aggarwal",3182.01,66,inactive,40,2863.809
+184,Bags,2,42,"Dani, Sha and Mani",957.33,16,active,23,861.597
+185,Caps,2,44,Shroff Group,1963.81,1,inactive,16,1767.429
+186,Sarees,2,44,Sarraf-Char,1352.52,39,inactive,23,1217.268
+187,Jackets,5,37,Gola-Chahal,1798.98,42,active,46,1619.082
+188,Shorts,4,40,Jani Inc,1777.18,39,inactive,1,1599.462
+189,Belts,5,7,"Chauhan, Shenoy and Luthra",928.95,40,active,37,836.055
+190,Heels,4,28,"Sibal, Swaminathan and Srivastava",2547.43,34,inactive,48,2292.687
+191,Sarees,2,5,"Madan, Lal and Bhargava",1246.37,40,inactive,23,1121.733
+192,Track Pants,5,9,Mani LLC,2970.83,40,active,31,2673.747
+193,Shorts,4,9,Buch-Zacharia,4556.39,59,active,10,4100.751
+194,Heels,6,25,Hans-Handa,3715.18,26,inactive,4,3343.662
+195,T-Shirts,6,1,Vaidya LLC,3933.9,45,active,28,3540.51
+196,Boots,3,2,"Wable, Chatterjee and Sodhi",1593.49,49,inactive,33,1434.141
+197,Sports Shoes,6,11,"Gala, Mander and Desai",2513.17,16,inactive,31,2261.853
+198,Dresses,1,50,"Saini, Thakur and Banerjee",2564.3,95,inactive,40,2307.87
+199,Caps,1,5,"Bahri, Choudhury and Atwal",2157.84,63,inactive,8,1942.056
+200,Caps,2,11,Chokshi-Talwar,1729.84,99,inactive,22,1556.856
+201,T-Shirts,2,10,Vaidya-Kumer,2634.88,99,active,7,2371.392
+202,Jeans,6,41,Toor-Cherian,1034.82,19,active,26,931.338
+203,Skirts,3,18,Bose-Halder,4100.13,91,inactive,25,3690.117
+204,Heels,4,7,"Borah, Vohra and Ramanathan",1588.69,72,inactive,30,1429.821
+205,Heels,4,21,"Dada, Kuruvilla and Bhargava",4397.6,81,inactive,49,3957.84
+206,Sunglasses,4,49,Biswas Ltd,3297.83,38,active,23,2968.047
+207,Tops,2,14,Gade Group,1831.49,56,active,13,1648.341
+208,T-Shirts,4,26,"Lal, Jaggi and Krishnamurthy",3976.85,70,inactive,14,3579.165
+209,Track Pants,1,42,Singh-Cheema,2118.1,64,active,12,1906.29
+210,Shirts,1,18,Ramanathan Ltd,1850.79,33,active,29,1665.711
+211,Jeans,3,39,"Kata, Sahota and Sarraf",766.54,55,inactive,36,689.886
+212,Dresses,1,43,Sankaran-Saran,1198.61,46,inactive,11,1078.749
+213,Jeans,2,4,"Vig, Som and Shan",2190.67,56,active,35,1971.603
+214,Sports T-Shirts,4,5,Chahal and Sons,1718.64,93,active,45,1546.776
+215,Tops,1,50,Iyengar-Kapoor,3193.79,74,inactive,6,2874.411
+216,Dresses,6,20,"Dora, Ghose and Kade",3544.38,4,inactive,49,3189.942
+217,Heels,2,22,"Arya, Srinivasan and Bhalla",1653.65,18,active,27,1488.285
+218,Handbags,1,10,Kohli LLC,700.46,61,inactive,17,630.414
+219,Tops,3,4,"Sem, Brar and Edwin",2154.5,31,active,5,1939.05
+220,Heels,2,27,Khare-Sibal,3200.72,49,inactive,17,2880.648
+221,Sneakers,2,17,"Shankar, Soman and Dhingra",2455.39,18,inactive,6,2209.851
+222,Sneakers,6,5,Ganesh PLC,2203.63,7,active,19,1983.267
+223,Skirts,6,29,Khanna-Butala,2671.75,36,active,14,2404.575
+224,Jeans,3,12,Hayer and Sons,3784.87,40,active,45,3406.383
+225,Trousers,3,50,Date-Khanna,4640.48,33,active,46,4176.432
+226,Hoodies,6,13,Virk-Sani,1599.95,41,inactive,30,1439.955
+227,Boots,6,37,Khurana-Kurian,2263.79,42,inactive,42,2037.411
+228,Watches,1,16,Shenoy Group,1533.8,65,inactive,30,1380.42
+229,Caps,4,16,Tak Inc,2348.68,94,inactive,2,2113.812
+230,Heels,3,49,"Grover, Shetty and Tank",1453.17,48,active,30,1307.853
+231,Sandals,6,47,Sampath-Lala,4875.92,11,active,22,4388.328
+232,Trousers,3,5,Sarin Inc,516.15,82,active,20,464.535
+233,Boots,6,38,Dara-Samra,529.17,95,inactive,13,476.253
+234,T-Shirts,3,50,Karnik and Sons,3493.99,38,active,4,3144.591
+235,T-Shirts,6,13,"Batta, Rama and Kalla",3631.74,93,inactive,20,3268.566
+236,Shorts,2,23,Kothari and Sons,2204.06,96,active,32,1983.654
+237,Jeans,6,39,Swaminathan Group,1467.55,26,active,28,1320.795
+238,Trousers,1,11,Bhatti Group,3544.77,76,active,14,3190.293
+239,Boots,4,1,Ramaswamy-Gade,1303.67,61,inactive,8,1173.303
+240,Heels,5,49,Sha LLC,2634.09,12,active,22,2370.681
+241,Jeans,2,5,"Kapoor, Yohannan and Datta",4381.48,44,inactive,37,3943.332
+242,Sandals,1,16,Mahal-Saha,4240.93,59,inactive,32,3816.837
+243,Shirts,2,11,Roy-Gola,4375.81,94,inactive,20,3938.229
+244,Belts,5,50,Hegde Group,4782,8,active,46,4303.8
+245,Sports Shoes,5,28,Bhandari Inc,907.48,94,active,33,816.732
+246,Hoodies,1,35,"Saini, Borra and Koshy",2713.68,46,inactive,13,2442.312
+247,Trousers,1,35,Gupta-Sankaran,2593.24,100,inactive,18,2333.916
+248,Jeans,3,24,Talwar-Mani,3525.3,4,active,48,3172.77
+249,Caps,2,37,Randhawa LLC,2144.81,57,inactive,4,1930.329
+250,Heels,3,26,Bahl PLC,1956.99,69,active,38,1761.291
+251,Heels,2,1,Vala-Boase,2214.22,3,active,14,1992.798
+252,T-Shirts,4,6,Banerjee-Sachdev,3962,31,active,34,3565.8
+253,Skirts,3,2,"Tara, Tripathi and Hegde",2827.24,77,active,20,2544.516
+254,Bags,3,47,Madan-Talwar,628.07,26,inactive,2,565.263
+255,Track Pants,6,40,"Bajwa, Venkatesh and Khare",1979.18,93,active,27,1781.262
+256,Track Pants,2,11,Ramaswamy LLC,1625.98,13,inactive,49,1463.382
+257,Caps,4,23,Tripathi Ltd,2473.01,14,active,23,2225.709
+258,Sports T-Shirts,3,12,"Bail, Balan and Shere",1213.79,32,inactive,18,1092.411
+259,Dresses,2,49,"Dutta, Gokhale and Dutta",4033.62,25,inactive,31,3630.258
+260,Shirts,1,45,"Jani, Jha and Balakrishnan",950.18,22,inactive,7,855.162
+261,Bags,2,1,"Rastogi, Grewal and Batra",1456.73,9,inactive,44,1311.057
+262,Skirts,5,44,"Chana, De and Dasgupta",4669.66,12,inactive,24,4202.694
+263,Jeans,4,17,Bhatia-Wadhwa,2736.12,90,active,11,2462.508
+264,Jeans,3,40,"Loke, Kapur and Tank",884.9,19,inactive,31,796.41
+265,T-Shirts,1,11,Goswami-Kapur,3619.27,14,active,30,3257.343
+266,Dresses,4,31,Sen-Bobal,3832.41,23,active,49,3449.169
+267,Shoes,2,41,Ray Group,4688.47,5,inactive,39,4219.623
+268,Shoes,1,24,Ramachandran and Sons,4742.24,18,inactive,3,4268.016
+269,Belts,1,2,"Sarin, Lad and Randhawa",4686.97,9,active,5,4218.273
+270,Sneakers,4,17,Bala-Sathe,3659.45,54,active,5,3293.505
+271,Track Pants,5,34,Ramanathan-Loke,679.84,94,inactive,48,611.856
+272,Track Pants,4,44,"Agrawal, Datta and Thakur",3575.25,100,inactive,43,3217.725
+273,Hoodies,6,36,Toor-Bora,4010.28,83,active,44,3609.252
+274,Boots,5,3,Sehgal-Dar,4696.91,86,inactive,7,4227.219
+275,Trousers,5,50,"Bava, Mannan and Babu",4579.02,52,inactive,28,4121.118
+276,Shoes,4,33,"Bose, Zachariah and Dasgupta",2107.5,37,inactive,5,1896.75
+277,Sandals,3,14,Yogi Group,3857.24,86,inactive,48,3471.516
+278,Watches,4,3,"Dhawan, Bassi and Comar",1363.28,11,active,37,1226.952
+279,Trousers,5,10,Warrior-Mangat,1927.71,11,active,12,1734.939
+280,Watches,1,20,Kohli Ltd,4966.08,15,active,39,4469.472
+281,Jeans,5,25,Bhagat LLC,3648.88,1,active,4,3283.992
+282,Sports Shoes,5,16,Mallick Ltd,4391.04,74,active,41,3951.936
+283,Handbags,2,46,Roy-Rao,1978.95,37,inactive,1,1781.055
+284,Sports T-Shirts,6,38,Swamy PLC,1467.89,35,inactive,16,1321.101
+285,Sports Shoes,3,1,Toor Ltd,4042.73,10,inactive,24,3638.457
+286,Heels,2,3,Chaudhry Group,2736.17,95,inactive,24,2462.553
+287,Heels,5,6,Savant-Rajagopalan,3237.41,85,active,14,2913.669
+288,Jeans,3,38,Viswanathan Ltd,1124.26,35,inactive,12,1011.834
+289,Shoes,1,45,Suri PLC,1720.85,44,active,45,1548.765
+290,Shorts,3,9,"Tailor, Tata and Setty",1382.96,55,inactive,25,1244.664
+291,Heels,6,30,Rau PLC,2488.03,27,active,22,2239.227
+292,Shoes,3,40,Sami Group,3375.62,11,active,29,3038.058
+293,Jeans,1,19,Krish-Ratti,4295.4,76,inactive,24,3865.86
+294,Shoes,3,17,Varty-Sridhar,3666.44,95,inactive,40,3299.796
+295,Watches,3,31,Kalla-Deshmukh,3546.76,61,active,2,3192.084
+296,Caps,2,47,Thaker Ltd,2247.23,41,inactive,14,2022.507
+297,Shorts,5,27,"Raj, Arya and Sane",1756.54,56,active,41,1580.886
+298,Dresses,5,1,Mander Group,3703.4,41,active,42,3333.06
+299,Tops,1,41,"Bakshi, Edwin and Rajan",2455.77,14,active,18,2210.193
+300,Boots,5,15,Dayal-Randhawa,4472.18,55,active,43,4024.962
